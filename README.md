@@ -28,7 +28,7 @@ Software
 
 **:clipboard: Carpeta Blog**
 
-* [C0.1 Integrar equipos](Blog/C0.1_IntegrarEquiposdeTrabajo.md)
+* [C0.1 Integrar equipos](Blog/C0.1%20VanessaMarlenneRodriguezBaez_Zerox.md)
 
 # :closed_book: Unidad 2
 
