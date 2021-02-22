@@ -11,7 +11,7 @@
 
 **Carrera:** Sistemas computacionales.
 
-**Nombre Del equipo:** 
+**Nombre Del equipo:** Zerox
 
 **Nombre del maestro:** Jaime Leonardo Enriquez Alvarez.
 
