@@ -20,30 +20,36 @@ Software
 
 # :pushpin: Indice #
 
-# :black_nib: Unidad 1
+# :tulip: Unidad 1
 
 **Carpeta Docs**
 
-
+:sparkles:
 
 **Carpeta Blog**
 
-  :round_pushpin: [C0.1 Integrar equipos](Blog/C0.1%20Integrar%20equipos%20_VanessaMarlenneRodriguezBaez.md)
+  :star2: [C0.1 Integrar equipos](Blog/C0.1%20Integrar%20equipos%20_VanessaMarlenneRodriguezBaez.md)
 
-# :notebook: Unidad 2
+# :sunflower: Unidad 2
 
 **Carpeta Docs**
+:sparkles:
 
 **Carpeta Blog**
+:star2:
 
-# :pencil2: Unidad 3
+# :cherry_blossom:Unidad 3
 
 **Carpeta Docs**
+:sparkles:
 
 **Carpeta Blog**
+:star2:
 
-# :notebook_with_decorative_cover: Unidad 4
+# :rose: Unidad 4
 
 **Carpeta Docs**
+:sparkles:
 
 **Carpeta Blog**
+:star2:
