@@ -28,7 +28,9 @@ Software
 
 **Carpeta Blog**
 
-  :star2: [C0.1 Integrar equipos](Blog/C0.1%20Integrar%20equipos%20_VanessaMarlenneRodriguezBaez.md)
+  :star2: [C0.1 Integrar equipos](Blog/C0.1%20Integrar%20equipos%20de%20trabajo%20_VanessaMarlenneRodriguezBaez.md)
+
+  :star2: [C0.2  Tipo de sistema de información](Blog/C0.2%20Tipo%20de%20Sistema%20Desarrollar_VanessaMarlenneRodriguezBaez.md)
 
 # :sunflower: Unidad 2
 
