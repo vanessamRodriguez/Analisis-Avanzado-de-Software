@@ -32,6 +32,8 @@ Software
 
   :star2: [C0.2  Tipo de sistema de información](Blog/C0.2%20Tipo%20de%20Sistema%20Desarrollar_VanessaMarlenneRodriguezBaez.md)
 
+  :star2: [ C0.3 Diagrama de flujo del proceso](Blog/C0.3_DiagramadeFlujoProceso_VanessaMarlenneRodriguezBaez.md)
+
 # :sunflower: Unidad 2
 
 **Carpeta Docs**
