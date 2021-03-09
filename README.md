@@ -24,7 +24,7 @@ Software
 
 **Carpeta Docs**
 
-:sparkles:
+:sparkles: [A0.1 Actividad de aprendizaje](Docs/A0.1%20RecopilacionEntrevista_VanessaMarlenneRodriguezBaez.md)
 
 **Carpeta Blog**
 
