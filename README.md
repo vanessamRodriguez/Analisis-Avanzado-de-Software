@@ -34,6 +34,7 @@ Software
 
   :star2: [ C0.3 Diagrama de flujo del proceso](Blog/C0.3_DiagramadeFlujoProceso_VanessaMarlenneRodriguezBaez.md)
 
+ :star2: [ C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio. ](Blog/C1.1%20ObjetivosGenerales%20especificos_VanessaMarlenneRodriguezBaez.md)
 # :sunflower: Unidad 2
 
 **Carpeta Docs**
