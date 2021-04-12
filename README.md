@@ -34,15 +34,18 @@ Software
 
   :star2: [ C0.3 Diagrama de flujo del proceso](Blog/C0.3_DiagramadeFlujoProceso_VanessaMarlenneRodriguezBaez.md)
 
- :star2: [ C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio. ](Blog/C1.1%20ObjetivosGenerales%20especificos_VanessaMarlenneRodriguezBaez.md)
+ 
 # :sunflower: Unidad 2
 
 **Carpeta Docs**
-:sparkles:
+:sparkles: [A1.0 Consolidacion del acta constitutiva]
 
 **Carpeta Blog**
-:star2:
+:star2: [ C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio. ](Blog/C1.1%20ObjetivosGenerales%20especificos_VanessaMarlenneRodriguezBaez.md)
 
+:star2:[C1.2 Elaboracion del acta constitutiva del proyecto](Blog/C1.2%20ActaConstitutiva%20delProyecto_%20VanessaMarlenneRodriguezBaez.md)
+
+:star2: [C1.3 Requisitos del sistema para el caso de estudio](Blog/C1.3_Requisitos_del_sistema_VanessaMarlenneRodriguezBaez.md)
 # :cherry_blossom:Unidad 3
 
 **Carpeta Docs**
