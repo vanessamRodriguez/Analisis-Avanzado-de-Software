@@ -38,7 +38,7 @@ Software
 # :sunflower: Unidad 2
 
 **Carpeta Docs**
-:sparkles: [A1.0 Consolidacion del acta constitutiva]
+:sparkles: [A1.0 Consolidacion del acta constitutiva](Docs/A1.0_ActaConstitutiva_delProyecto_VanessaMarlenneRodriguezBaez.md)
 
 **Carpeta Blog**
 
