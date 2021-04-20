@@ -39,7 +39,7 @@ Software
 
 **Carpeta Docs**
 
-:sparkles: [A1.0 Consolidacion del acta constitutiva](Docs/A1.0Consolidation-of-the-articles-of-incorporation_VanessaMarlenneRodriguezBaez.md)
+:sparkles: [A1.0 Consolidation of the articles of incorporation](Docs/A1.0Consolidation-of-the-articles-of-incorporation_VanessaMarlenneRodriguezBaez.md)
 
 **Carpeta Blog**
 
