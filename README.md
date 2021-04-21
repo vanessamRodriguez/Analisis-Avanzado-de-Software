@@ -49,6 +49,7 @@ Software
 
 :star2: [C1.3 Requisitos del sistema para el caso de estudio](Blog/C1.3_Requisitos_del_sistema_VanessaMarlenneRodriguezBaez.md)
 
+:star2: [C1.4 Modelado de requisitos a través de diagramas de comportamiento](Blog/C1.4_UML_Casos_de_uso_secuencia_clases_VANESSAMARLENNERODRIGUEZBAEZ.md)
 
 # :cherry_blossom:  Unidad 3: Especificación y diseño de software
 
