@@ -51,6 +51,8 @@ Software
 
 :star2: [C1.4 Modelado de requisitos a través de diagramas de comportamiento](Blog/C1.4_UML_Casos_de_uso_secuencia_clases_VANESSAMARLENNERODRIGUEZBAEZ.md)
 
+:star2: [C1.5  Modelado de requisitos a través de diagramas estructurados](Blog/C1.5_UML_Estado_componentes_distribucion_VanessaMarlenneRodriguezBaez.md)
+
 # :cherry_blossom:  Unidad 3: Especificación y diseño de software
 
 **Carpeta Docs**
