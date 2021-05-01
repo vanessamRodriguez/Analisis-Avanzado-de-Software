@@ -42,6 +42,7 @@ Software
 :sparkles: [A1.0 Consolidation of the articles of incorporation](Docs/A1.0Consolidation-of-the-articles-of-incorporation_VanessaMarlenneRodriguezBaez.md)
 
 :sparkles: [A1.1 Requirements modeling through UML diagrams](Docs/A1.1Requirements-modeling-through-UML-diagrams_VanessaMarlenneRodriguezBaez.md)
+
 **Carpeta Blog**
 
 :star2: [ C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio. ](Blog/C1.1%20ObjetivosGenerales%20especificos_VanessaMarlenneRodriguezBaez.md)
