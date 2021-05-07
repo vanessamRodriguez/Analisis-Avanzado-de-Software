@@ -61,7 +61,8 @@ Software
 :sparkles:
 
 **Carpeta Blog**
-:star2:
+
+:star2: [ C2.1 Especificación de Requerimientos Funcionales](Blog/C2.1_EspecificacionRequerimientos_Funcionales_VanessaMarlenneRodriguezBaez.md)
 
 # :rose: Unidad 4:  Metodología Ágil
 
