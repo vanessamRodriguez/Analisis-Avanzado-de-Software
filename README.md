@@ -59,7 +59,9 @@ Software
 
 **Carpeta Docs**
 
-:sparkles: [A2.1 Specification of requirements and documentation](Docs/A2.1-Specification-of-requirements-and-documentation_VanessaMarlenneRodriguezBaez.md)
+:sparkles: [A2.2 Specification of requirements and documentation](Docs/A2.1-Specification-of-requirements-and-documentation_VanessaMarlenneRodriguezBaez.md)
+
+:sparkles: [A2.2 Design of the 4+1 architecture](Docs/A2.2-Design-of-the-41-architecture_VanessaMarlenneRodriguezBaez.md)
 
 **Carpeta Blog**
 
