@@ -63,6 +63,8 @@ Software
 
 :sparkles: [A2.2 Design of the 4+1 architecture](Docs/A2.2-Design-of-the-41-architecture_VanessaMarlenneRodriguezBaez.md)
 
+:sparkles: [A2.3 Software Architecture Patterns](https://github.com/vanessamRodriguez/Analisis-Avanzado-de-Software/blob/main/Docs/A2.3_Software_Architecture_Patterns_VanessaMarlenneRodriguezBaez.md)
+
 **Carpeta Blog**
 
 :star2: [ C2.1 Especificación de Requerimientos Funcionales](Blog/C2.1_EspecificacionRequerimientos_Funcionales_VanessaMarlenneRodriguezBaez.md)
