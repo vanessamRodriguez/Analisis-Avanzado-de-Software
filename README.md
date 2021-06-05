@@ -72,7 +72,7 @@ Software
 # :rose: Unidad 4:  Metodología Ágil
 
 **Carpeta Docs**
-:sparkles:
+:sparkles:[A3.1 Scrum start phase Project vision statement](Docs/A3.1_Scrum-start-phase-Project-vision-statement-VanessaMarlenneRodriguezBaez.md)
 
 **Carpeta Blog**
 :star2:
