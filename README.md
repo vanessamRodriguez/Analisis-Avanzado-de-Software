@@ -74,6 +74,8 @@ Software
 **Carpeta Docs**
 :sparkles:[A3.1 Scrum start phase Project vision statement](Docs/A3.1_Scrum-start-phase-Project-vision-statement-VanessaMarlenneRodriguezBaez.md)
 
+:sparkles: [Initiation Phase Artifacts](Docs/A3.2_Initiation_Phase_Artifacts_VanessaMarlenneRodriguezBaez.md)
+
 **Carpeta Blog**
 :star2:
 
