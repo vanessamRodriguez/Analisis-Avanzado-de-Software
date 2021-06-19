@@ -77,6 +77,8 @@ Software
 
 :sparkles: [A3.2 Initiation Phase Artifacts](Docs/A3.2_Initiation_Phase_Artifacts_VanessaMarlenneRodriguezBaez.md)
 
+:sparkles: [A3.3 Software Architecture through the C4](Docs/A3.3-Software-Architecture-through-the-C4-VanessaMarlenneRodriguezBaez.md)
+
 **Carpeta Blog**
 :star2:
 
