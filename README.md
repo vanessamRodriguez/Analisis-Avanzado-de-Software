@@ -79,6 +79,8 @@ Software
 
 :sparkles: [A3.3 Software Architecture through the C4](Docs/A3.3-Software-Architecture-through-the-C4-VanessaMarlenneRodriguezBaez.md)
 
+:sparkles: [A34Planning_and_estimation_phase_Artifacts.](https://github.com/vanessamRodriguez/Analisis-Avanzado-de-Software/blob/main/Docs/A3.4Planning_and_estimation_phase_Artifacts._VanessaMarlenneRodriguezBaez.md)
+
 **Carpeta Blog**
 :star2:
 
